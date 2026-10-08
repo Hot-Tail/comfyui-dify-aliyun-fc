@@ -205,16 +205,6 @@
 
 ## 许可
 
-本仓库的部署脚本和文档采用 **MIT License** 发布。
-
-**ComfyUI** 采用 **GPL-3.0** 许可。使用 ComfyUI 构建的商业产品，如果修改了 ComfyUI 本身，需按 GPL-3.0 开源修改部分；若仅通过 API 调用 ComfyUI 生成内容，商业收益来自独立开发的代码，通常不受 GPL 传染。
-
-**SD1.5 模型** 采用 **CreativeML Open RAIL-M** 许可，允许商业使用和作为服务分发。但需在服务条款中实施安全过滤器（NSFW 检测、仇恨言论拦截等）。
-
-**使用硅基流动 Embedding 需自行注册并申请 API Key，本仓库不包含任何个人密钥。**
-
-## 许可
-
 本项目采用 Apache License 2.0 发布。
 
 Copyright (c) 2026 Author
